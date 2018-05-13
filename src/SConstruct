@@ -1,0 +1,5 @@
+
+env = Environment(CCFLAGS = "-O3")
+env.Program("bf", ["bf.c"])
+env.Program("bf2", ["bf2.c"])
+env.Program("ascii-tab", ["ascii.c"])
