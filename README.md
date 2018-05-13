@@ -3,12 +3,14 @@ An very simple interpreter for BrainF*ck programs in C and some sample programs
 
 ### Contents of ./src
 Source code
+
   - ascii.c: ASCII code table generator in C
   - bf.c: A BrainF*ck interpreter
   - bf2.c: An extended version of BrainF*ck interpreter
 
 ### Contents of ./test
 Sample programs
+
   - aa.b
   - add.b
   - addition.b
